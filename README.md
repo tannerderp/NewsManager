@@ -1,5 +1,5 @@
 # News Manager
-This is a personal project that utilisizes the news api from newsapi.org to display news articles. It also allows user's to login and save articles, and search for articles. It utilizes a mix of react and django for the client side and server side portions of the app, respectively.
+This is a personal project that utilizes the news api from newsapi.org to display news articles. It also allows user's to login, save articles, and search for articles. It utilizes a mix of react and django for the client side and server side portions of the app.
 
 ## Project Demonstration
 A demonstration of this project is shown below
